@@ -9,7 +9,7 @@ Mini project from the **Industrial Training Program on Robotics and AI (My Equat
 
 ![Assembled gripper](simulation_results/assemble.png)
 
-Motion demo: [▶ Simulation of gripper.mp4]([https://drive.google.com/file/d/12mLMRSE5UHknJ7kM2m1YHdJjZiR5C/view?usp=drive_link])
+Motion demo: [▶ Simulation of gripper.mp4](https://drive.google.com/file/d/12m1tMRSESHUtKnj7kM2mlYHdZjlzIR5c/view?usp=drive_link)
 
 ## How it works
 
